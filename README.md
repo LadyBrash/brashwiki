@@ -1,2 +1,2 @@
-# brashwiki
-another wiki
+# Brashwiki
+a file-based wiki.
